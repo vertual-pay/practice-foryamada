@@ -1,0 +1,74 @@
+/* ヘッダー-Virtual Pay*/
+.header {
+    padding: 25px 75px 0px 75px;
+    color: #6AB0E0;
+    font-size: 40px;
+    font-family: "メイリオ";
+}
+
+/* 文言-新規登録 */
+.maintop {
+    padding: 2px 465px;
+    color: #2DBAAD;
+    font-size: 60px;
+    font-family: "メイリオ";
+    font-weight: bold;
+}
+
+/* 文言-メアド */
+.newacountform_mail {
+    padding: 2px 75px;
+    color: #6AB0E0;
+    font-size: 20px;
+    font-family: "メイリオ";
+    font-weight: bold;
+}
+
+/* メアド書き込むとこ */
+.newacountform_mail_fill {
+    margin: 0px 75px;
+    width:1000px;
+    height:30px;
+}
+
+/* 文言-利用規約に同意する */
+.newaccount_OK{
+    margin: 0px 75px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-family: "メイリオ";
+    font-weight: normal;  
+}
+
+/* 利用規約詳細 */
+.description_usingOK{
+    overflow: scroll;
+    height:180px;
+    font-size:16px;
+    margin:-10px 75px;
+    font-family: "メイリオ";
+    border-style: solid;
+    border-width: 1px;
+    width:1000px;
+}
+
+/* 登録ボタン */
+.submit {
+    margin: 40px 75px;
+    width:1000px;
+    height:80px;
+    color:#FFFFFF;
+    background-color: #2DBAAD;
+    border-color: #000000;
+    border-radius: 20px;
+    font-size: 40px;
+    padding: 0px 80px ;
+    left: 50px;
+    top: 100px;
+}
+
+/* 文言-すでに登録してる場合 */
+.alreadyOK {
+    margin: 20px 75px;
+    font-size: 20px;
+}
